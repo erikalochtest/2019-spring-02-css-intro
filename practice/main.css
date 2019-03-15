@@ -1,0 +1,17 @@
+body {
+	background-color: #DBECFC;
+	color: #333;
+border-style: dotted;
+}
+p{
+		color: blue; /* I make the paragraph text blue */
+	}
+  h2 {background-color: purple; color: yellow}
+  .terrier {background-color: yellow; color purple;
+  font-style: italic;}
+img{
+  border-style: solid;
+   border-width: medium;}
+   .subheaders{
+		color: blue; /* I make only the text in the elements with the subheader class blue */
+	}
